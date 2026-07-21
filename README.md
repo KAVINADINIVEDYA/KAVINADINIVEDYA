@@ -35,3 +35,10 @@ Transforming complex data into intelligent, scalable solutions through AI, Data 
 🔹 Big Data Analytics
 
 🔹 Cloud Data Platforms
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
