@@ -66,3 +66,23 @@ Transforming complex data into intelligent, scalable solutions through AI, Data 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Apache Ozone](https://img.shields.io/badge/Apache_Ozone-0F6CBD?style=for-the-badge)
+
+### ☁️ Cloud, DevOps & Platforms
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+## 📚 Currently Learning
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6E56CF?style=for-the-badge)
