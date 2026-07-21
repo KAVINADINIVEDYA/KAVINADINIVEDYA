@@ -55,7 +55,7 @@ Transforming complex data into intelligent, scalable solutions through AI, Data 
 ![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -71,7 +71,6 @@ Transforming complex data into intelligent, scalable solutions through AI, Data 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Apache Ozone](https://img.shields.io/badge/Apache_Ozone-0F6CBD?style=for-the-badge)
 
 ### ☁️ Cloud, DevOps & Platforms
