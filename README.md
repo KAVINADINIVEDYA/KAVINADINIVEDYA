@@ -4,9 +4,7 @@
 
 ### AI • Data Engineering • Machine Learning • Big Data
 
-<p align="center">
-  <img src="assets/banner.svg" alt="AI & Data Engineering Banner" width="100%">
-</p>
+ 
 
 Transforming complex data into intelligent, scalable solutions through AI, Data Engineering, and Machine Learning.
 
