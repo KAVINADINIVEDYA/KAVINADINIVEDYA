@@ -25,7 +25,7 @@ Transforming complex data into intelligent, scalable solutions through AI, Data 
 
 ## 👨‍💻 About Me
 
-I am an Engineering undergraduate specializing in **Information & Communication Engineering** at **Sri Lanka Technology Campus (SLTC)** with hands-on industry experience in **AI, Data Engineering, and Big Data** through my internship at **SLT Mobitel**.
+I am an Engineering undergraduate specializing in **Information & Communication Engineering** at **Sri Lanka Technology Campus (SLTC)** with hands-on industry experience in **AI, Data Engineering, and Big Data** through my internship at **Mobitel (Pvt)Ltd**.
 
 My interests focus on building intelligent systems using **Machine Learning**, **Large Language Models (LLMs)**, **Distributed Data Platforms**, and **Cloud-native Data Engineering**. I enjoy transforming complex data into scalable solutions that solve real-world engineering problems.
 
