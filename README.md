@@ -21,6 +21,8 @@ Transforming complex data into intelligent, scalable solutions through AI, Data 
 </a>
 
 </div>
+
+
 ## 👨‍💻 About Me
 
 - 🎓 B.Sc. (Hons) Engineering undergraduate in Information & Communication Engineering at Sri Lanka Technology Campus (SLTC).
