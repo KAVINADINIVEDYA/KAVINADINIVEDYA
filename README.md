@@ -2,15 +2,17 @@
 
 # Building Intelligent Data Solutions
 
+### AI • Data Engineering • Machine Learning • Big Data
+
 <p align="center">
   <img src="assets/banner.svg" alt="AI & Data Engineering Banner" width="100%">
 </p>
 
-> *Where Data Engineering Meets Artificial Intelligence.*
+Transforming complex data into intelligent, scalable solutions through AI, Data Engineering, and Machine Learning.
 
 <br>
 
-<a href="https://www.linkedin.com/in/kavinadi-nivedya-660571292/" target="_blank">
+<a href="https://www.linkedin.com/in/kavinadi-nivedya-660571292" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -19,7 +21,6 @@
 </a>
 
 </div>
-
 ## 👨‍💻 About Me
 
 - 🎓 B.Sc. (Hons) Engineering undergraduate in Information & Communication Engineering at Sri Lanka Technology Campus (SLTC).
